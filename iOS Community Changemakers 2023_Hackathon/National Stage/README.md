@@ -14,7 +14,7 @@ With that said, Kentica makes use of ARKit to present the user with different AR
 
 The first activity presented is "Busca Colores" wich is a game that, ussing AR places a bunch of color spheres around the player position for them to locate all the balls of one specific color in specific. The game lets the user calm down through the distraction of searching around for every ball that the game asks.
 
-![PlaceHolder] (https://github.com/Mare1702/SwiftUI_Development/blob/main/iOS%20Community%20Changemakers%202023_Hackathon/National%20Stage/Assets/Colors_MP4_AdobeExpress.gif)
+![](https://github.com/Mare1702/SwiftUI_Development/blob/main/iOS%20Community%20Changemakers%202023_Hackathon/National%20Stage/Assets/Colors_MP4_AdobeExpress.gif)
 
 - Hologram
 
