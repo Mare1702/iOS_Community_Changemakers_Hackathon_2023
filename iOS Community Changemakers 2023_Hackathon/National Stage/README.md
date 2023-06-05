@@ -20,5 +20,7 @@ The first activity presented is "Busca Colores" wich is a game that, ussing AR p
 
 The second button, is aimed towards telepresence, inside the "Acompañante" mode we can see a human projection, displaying how to breath calmly for the user to imitate them. While in the video we can se my teammate Diego, the idea that my team and I would like for the future of Kentica is for everyone to be able to upload a small video of a relative, friend or loved one for it to be displayed in place of the video that is showned in the video. 
 
+![](https://github.com/Mare1702/SwiftUI_Development/blob/main/iOS%20Community%20Changemakers%202023_Hackathon/National%20Stage/Assets/Teleprecense_MP4_AdobeExpress.gif) 
+
 
 
